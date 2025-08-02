@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
+
+#app{
+    height: 100vh;
+} */
+
+/* .conversation-item .avatar  */
+
+.EmojiPickerReact{
+  background-color: ('colors.grays.800');
+}
